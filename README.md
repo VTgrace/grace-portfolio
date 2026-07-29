@@ -1,4 +1,4 @@
-# Grace's Portofolio
+# Grace's Portfolio
 
 This website was built using React + TypeScript + Vite. It is currently a W.I.P.
 
