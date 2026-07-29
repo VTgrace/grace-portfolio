@@ -2,8 +2,7 @@
 
 This website was built using React + TypeScript + Vite. It is currently a W.I.P.
 
-Access the website at: <a href="https://VTgrace.github.io/grace-portfolio" target="_blank" rel="noopener noreferrer">https://VTgrace.github.io/grace-portfolio</a>
-
+Click [[https://www.geeksforgeeks.org/](https://VTgrace.github.io/grace-portfolio){:target="_blank"} to visit the website.
 
 ## Background
 This project was built off a template providing a minimal setup to get React working in Vite with HMR and some Oxlint rules.  
