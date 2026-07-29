@@ -5,6 +5,7 @@
 *.txt text
 *.html text
 *.css text
+*.tsx text
 *.js text
 
 # Declare files that will always have CRLF line endings on checkout.
