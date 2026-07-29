@@ -2,7 +2,7 @@
 
 This website was built using React + TypeScript + Vite. It is currently a W.I.P.
 
-Access the website at: https://VTgrace.github.io/grace-portfolio
+Access the website at: <a href="https://VTgrace.github.io/grace-portfolio" target="_blank" rel="noopener noreferrer">https://VTgrace.github.io/grace-portfolio</a>
 
 
 ## Background
