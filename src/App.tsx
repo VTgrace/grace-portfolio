@@ -16,9 +16,12 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started</h1>
+          <h1>Welcome!</h1>
           <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
+            Hello! My name is Grace. I'm currently working on this website. 
+            It's not much, but I hope to learn a few things here and there. 
+            I will be slowly adding to the website as time allows and curiosity grows. 
+            Let's see what it can become!
           </p>
         </div>
         <button
@@ -26,7 +29,7 @@ function App() {
           className="counter"
           onClick={() => setCount((count) => count + 1)}
         >
-          Count is {count}
+          You've clicked this button {count} time(s)
         </button>
       </section>
 
@@ -39,18 +42,22 @@ function App() {
           <ul>
             <li>
               Apple
-            </li>
-            <li>
               Banana
-            </li>
-            <>
               Orange
-            </>
+            </li>
           </ul>
         </div>
-        <div id="social">
+        <div id="test2">
           <h2>Test 2</h2>
           <p>Another test section</p>
+        </div>
+      </section>
+
+      <section id="buffer">
+        <div id="spacer">
+          <ul>
+            <a href="https://www.linkedin.com/in/gracemarrone/">LinkedIn</a> | <a href="https://github.com/VTgrace">GitHub</a> | <a href="mailto:gracee@vt.edu">Email</a>
+          </ul>
         </div>
       </section>
     </>
