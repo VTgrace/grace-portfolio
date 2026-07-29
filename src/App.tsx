@@ -56,7 +56,9 @@ function App() {
       <section id="buffer">
         <div id="spacer">
           <p>
-            <a href="https://www.linkedin.com/in/gracemarrone/">LinkedIn</a> | <a href="https://github.com/VTgrace">GitHub</a> | <a href="mailto:gracee@vt.edu">Email</a>
+            <a href="https://www.linkedin.com/in/gracemarrone/" target="_blank" rel="noopener noreferrer">LinkedIn</a> 
+            &nbsp;| <a href="https://github.com/VTgrace" target="_blank" rel="noopener noreferrer">GitHub</a> 
+            &nbsp;| <a href="mailto:gracee@vt.edu" target="_blank" rel="noopener noreferrer">Email</a>
           </p>
         </div>
       </section>
