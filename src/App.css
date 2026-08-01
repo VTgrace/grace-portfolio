@@ -154,7 +154,7 @@
   }
 }
 
-#spacer {
+#bottom-links {
   height: 60px;
   padding: 12px 10px;
   text-align: center;
@@ -186,3 +186,27 @@
     border-right-color: var(--border);
   }
 }
+
+
+/* TOP NAVIGATION BAR STYLING*/
+/* Add a black background color to the top navigation */
+.topnav {
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: var(--text-h);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: var(--accent-border);
+  color: var(--text-h);
+}
+
