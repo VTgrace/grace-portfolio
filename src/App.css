@@ -191,22 +191,25 @@
 /* TOP NAVIGATION BAR STYLING*/
 /* Add a black background color to the top navigation */
 .topnav {
-  overflow: hidden;
+  position: sticky;
+  top: 0px;
+  z-index: 1000; 
+  background-color: var(--bg);
 }
 
-/* Style the links inside the navigation bar */
-.topnav a {
+.topnav li {
   float: left;
+  list-style-type: none;
+}
+
+.topnav li a {
+  display: block;
   color: var(--text-h);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
 }
 
-/* Change the color of links on hover */
-.topnav a:hover {
+.topnav li a:hover {
   background-color: var(--accent-border);
-  color: var(--text-h);
 }
-

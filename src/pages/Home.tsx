@@ -35,6 +35,18 @@ function Home() {
 
       <div className="ticks"></div>
 
+      <section id="center">
+        <div>
+          <p>Just another section!</p>
+          &nbsp;
+          <p>
+            Just adding some text here to test items while scrolling.
+            Test it out on mobile too! I am trying to make sure the website stays responsive.
+            The website also has a light and dark mode based on user preference! Try it out!
+          </p>
+        </div>
+      </section>
+
       <section id="next-steps">
         <div id="test1">
           <h2>Test 1</h2>

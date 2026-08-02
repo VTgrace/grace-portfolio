@@ -7,11 +7,13 @@ const App = () => {
     return (
         <HashRouter>
            <div className="topnav">
-            <Link to="/">Home</Link>
-            &nbsp;
-            <Link to="/about">About</Link>
-            &nbsp;
-            <Link to="/projects">Projects</Link>
+            <nav>
+            <ul>
+              <li><Link to="/">Home</Link></li>
+              <li><Link to="/about">About</Link></li>
+              <li><Link to="/projects">Projects</Link></li>
+            </ul>
+            </nav>
             </div>
 
             <Routes>
